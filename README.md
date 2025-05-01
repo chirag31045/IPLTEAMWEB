@@ -38,4 +38,8 @@ A full-stack IPL Team Management web application built with **Spring Boot**, **J
 
 ---
 
+## 🧰 Snapshot for project 
+
+---
+
 ## 🗃️ Project Structure
