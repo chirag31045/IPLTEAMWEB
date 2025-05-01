@@ -34,7 +34,7 @@ A full-stack IPL Team Management web application built with **Spring Boot**, **J
 | Frontend    | Thymeleaf, HTML5, CSS3, Bootstrap 5 |
 | Database    | MySQL                            |
 | File Upload | MultipartFile (Spring Boot)      |
-| Tools       | Postman, IntelliJ / VS Code, Git |
+| Tools       | Postman, SpringToolSuit4(STS), Git |
 
 ---
 
