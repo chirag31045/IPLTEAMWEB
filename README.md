@@ -41,6 +41,8 @@ A full-stack IPL Team Management web application built with **Spring Boot**, **J
 ## 🧰 Snapshot for project 
 ![image alt](https://github.com/chirag31045/IPLTEAMWEB/blob/5d6d5e20e4042687a18b227e41d1ee864b1b7ef4/Screenshot%20(650).png?raw=true)
 
+![image alt](https://github.com/chirag31045/IPLTEAMWEB/blob/34454598caa185d2df0817be8c76885b12d8147d/Screenshot%20(651).png?raw=true)
+
 ---
 
 ## 🗃️ Project Structure
