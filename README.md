@@ -1,0 +1,52 @@
+# 🏏 IPL Team Management System
+
+A full-stack IPL Team Management web application built with **Spring Boot**, **Java**, **Thymeleaf**, and **MySQL**. This project allows users to manage IPL teams and players, including CRUD operations, photo uploads, player statistics, and more — all through a responsive and user-friendly interface.
+
+---
+
+## 🚀 Features
+
+### 🧑‍🤝‍🧑 Teams
+- Create, view, update, and delete IPL teams
+- Upload and display team logos
+- View detailed team info: Coach, Owner, Total Matches Won
+- Stylish team card layout with gradient backgrounds
+
+### 🏏 Players
+- Add, edit, delete players under specific teams
+- Upload and view player profile photos
+- Filter/search players by name or role
+- View detailed player stats (net worth, matches, runs, biography)
+
+### 🌐 UI/UX
+- Thymeleaf-based responsive frontend
+- Bootstrap 5 UI with custom styles
+- Reusable header, footer, and navbar fragments
+- Team cards and player cards with hover and visual effects
+
+---
+
+## 🧰 Technologies Used
+
+| Layer       | Tech Stack                      |
+|-------------|----------------------------------|
+| Backend     | Spring Boot, Spring MVC, Spring Data JPA |
+| Frontend    | Thymeleaf, HTML5, CSS3, Bootstrap 5 |
+| Database    | MySQL                            |
+| File Upload | MultipartFile (Spring Boot)      |
+| Tools       | Postman, SpringToolSuit4(STS), Git |
+
+---
+
+## 🧰 Snapshot for project 
+![image alt](https://github.com/chirag31045/IPLTEAMWEB/blob/5d6d5e20e4042687a18b227e41d1ee864b1b7ef4/Screenshot%20(650).png?raw=true)
+
+![image alt](https://github.com/chirag31045/IPLTEAMWEB/blob/34454598caa185d2df0817be8c76885b12d8147d/Screenshot%20(651).png?raw=true)
+
+![image alt](https://github.com/chirag31045/IPLTEAMWEB/blob/83bb4192b7a5bf837bc7b3f4dd3cd80a94a892a3/Screenshot%20(652).png?raw=true)
+
+![image alt](https://github.com/chirag31045/IPLTEAMWEB/blob/652163ad33ba51f81ccb68a826f3b72ca5f546e4/Screenshot%20(653).png?raw=true)
+
+---
+
+## 🗃️ Project Structure
